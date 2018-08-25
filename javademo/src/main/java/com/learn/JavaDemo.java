@@ -12,6 +12,8 @@ public class JavaDemo {
         list.add("one");
         list.add("two");
         list.add("two");
+        list.add("three");
+        list.add("three");
         System.out.println(list);
     }
 }
